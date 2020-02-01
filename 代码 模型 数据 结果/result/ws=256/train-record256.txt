@@ -1,0 +1,44 @@
+number of sentence 298229
+input time: 4.6978583335876465
+standarize 387.9967234134674
+Epoch 1/20
+ - 388s - loss: 0.6778 - acc: 0.7392
+Epoch 2/20
+ - 379s - loss: 0.3828 - acc: 0.8635
+Epoch 3/20
+ - 378s - loss: 0.3237 - acc: 0.8850
+Epoch 4/20
+ - 387s - loss: 0.2885 - acc: 0.8983
+Epoch 5/20
+ - 395s - loss: 0.2620 - acc: 0.9081
+Epoch 6/20
+ - 406s - loss: 0.2401 - acc: 0.9159
+Epoch 7/20
+ - 420s - loss: 0.2212 - acc: 0.9227
+Epoch 8/20
+ - 438s - loss: 0.2051 - acc: 0.9286
+Epoch 9/20
+ - 454s - loss: 0.1914 - acc: 0.9336
+Epoch 10/20
+ - 473s - loss: 0.1791 - acc: 0.9382
+Epoch 11/20
+ - 489s - loss: 0.1684 - acc: 0.9423
+Epoch 12/20
+ - 521s - loss: 0.1586 - acc: 0.9458
+Epoch 13/20
+ - 541s - loss: 0.1501 - acc: 0.9487
+Epoch 14/20
+ - 567s - loss: 0.1421 - acc: 0.9517
+Epoch 15/20
+ - 592s - loss: 0.1350 - acc: 0.9543
+Epoch 16/20
+ - 620s - loss: 0.1282 - acc: 0.9567
+Epoch 17/20
+ - 650s - loss: 0.1220 - acc: 0.9589
+Epoch 18/20
+ - 672s - loss: 0.1163 - acc: 0.9611
+Epoch 19/20
+ - 703s - loss: 0.1110 - acc: 0.9629
+Epoch 20/20
+ - 727s - loss: 0.1059 - acc: 0.9648
+train 10208.278201818466

@@ -1,0 +1,63 @@
+ep20
+Drive already mounted at /content/gdrive; to attempt to forcibly remount, call drive.mount("/content/gdrive", force_remount=True).
+number of sentence 298229
+input time: 9.049279689788818
+standarize 325.95488119125366
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:30: UserWarning: Update your `Model` call to the Keras 2 API: `Model(inputs=Tensor("in..., outputs=Tensor("ti...)`
+Epoch 1/20
+ - 92s - loss: 0.6703 - acc: 0.7420
+Epoch 2/20
+ - 87s - loss: 0.3833 - acc: 0.8626
+Epoch 3/20
+ - 87s - loss: 0.3206 - acc: 0.8855
+Epoch 4/20
+ - 88s - loss: 0.2835 - acc: 0.8997
+Epoch 5/20
+ - 89s - loss: 0.2553 - acc: 0.9102
+Epoch 6/20
+ - 88s - loss: 0.2311 - acc: 0.9189
+Epoch 7/20
+ - 91s - loss: 0.2113 - acc: 0.9263
+Epoch 8/20
+ - 89s - loss: 0.1948 - acc: 0.9323
+Epoch 9/20
+ - 89s - loss: 0.1809 - acc: 0.9376
+Epoch 10/20
+ - 89s - loss: 0.1686 - acc: 0.9421
+Epoch 11/20
+ - 88s - loss: 0.1578 - acc: 0.9460
+Epoch 12/20
+ - 88s - loss: 0.1482 - acc: 0.9494
+Epoch 13/20
+ - 88s - loss: 0.1394 - acc: 0.9525
+Epoch 14/20
+ - 89s - loss: 0.1314 - acc: 0.9555
+Epoch 15/20
+ - 88s - loss: 0.1240 - acc: 0.9582
+Epoch 16/20
+ - 88s - loss: 0.1170 - acc: 0.9606
+Epoch 17/20
+ - 88s - loss: 0.1107 - acc: 0.9629
+Epoch 18/20
+ - 88s - loss: 0.1046 - acc: 0.9652
+Epoch 19/20
+ - 87s - loss: 0.0988 - acc: 0.9672
+Epoch 20/20
+ - 87s - loss: 0.0937 - acc: 0.9690
+train 1774.819569826126
+
+
+ep26:
+Epoch 1/6
+ - 89s - loss: 0.1785 - acc: 0.9408
+Epoch 2/6
+ - 86s - loss: 0.1213 - acc: 0.9590
+Epoch 3/6
+ - 85s - loss: 0.1065 - acc: 0.9642
+Epoch 4/6
+ - 85s - loss: 0.0966 - acc: 0.9678
+Epoch 5/6
+ - 85s - loss: 0.0891 - acc: 0.9705
+Epoch 6/6
+ - 85s - loss: 0.0827 - acc: 0.9728
+train 527.2305507659912
